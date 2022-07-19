@@ -1,0 +1,7 @@
+b=int(input("enter value of b"))
+e=int(input("enter value of e"))
+res=1
+while e!=0:
+    res*=b
+    e-=1
+print(res) 

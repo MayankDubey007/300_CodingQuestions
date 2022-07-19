@@ -1,0 +1,156 @@
+4# swapping three number
+4# search element in list
+4# clear list
+4# reverse list
+4# copy list
+4# count occurence of an Element
+4# find sub string Presence in a string
+4# common letter between two string
+4# count the frequency Of words in appearing in String
+4# conversion Two List into Dictionary
+4# Remove Duplicate From sorted array
+4# Remove Duplicate in python
+4# rotate String
+4# reverse word in Strong via range
+4# sub sequence of String
+4# Fastest way for Prime Number 
+4# Find out elements common in two lists using Dictionary
+4# Find Sub String  of String
+4# First non Reapeating Chaar in String1.
+4# 2. Write a Sort function to sort the elements in a list
+4# 3. Write a sorting function without using the list.sort function
+
+4# 14. Write a Python program to split strings using newline delimiter
+4   *Q-date diffrence
+4   *Q-lamda functions 
+4   *Q-decorator functions 
+4    Q07).  Write a program in Python to check whether a number is palindrom or not using recursive method.   
+4    Q10). Write a program in Python to find sum of digits of a number using recursion?                      
+4    Q13). Write a program in Python to find prime factors of a given integer.                               
+4    Q13). Write a program in Python to find factors of a given integer.                               
+4    Q15). Write a program in Python to find given number is perfect or not?                                 
+4    Q18). Python Program to calculate factorial using recursion.                                            
+4    Q29). Python program to calculate LCM of given two numbers.                                             
+4    Q30). Python Program to find GCD or HCF of two numbers.                                                 
+4    Q31). Python Program to find GCD of two numbers using recursion.                                        
+4    Q32). Python Program to Convert Decimal Number into Binary.                                             
+4    Q35). Python Program to convert Celsius to Fahrenheit.                                                  
+4    Q36). Python Program to convert Fahrenheit to Celsius.                                                  
+4    Q02). Python Program to count occurrence of a given characters in string.                           
+4    Q14). Python program to print the highest frequency character in a String.                               
+4    *Q-password genrator
+4    Q17). Python program to separate characters in a given string.                                           
+4    Q01). Write a program in Python for, In array 1-100 numbers are stored, one number is missing how do you find it.  
+4    Q02). Write a program in Python for, In a array 1-100 multiple numbers are duplicates, how do you find it.         
+4    Q03). Write a program in Python for, How to find all pairs in array of integers whose sum is equal to given number.
+4    Q04). Write a program in Python for, How to compare two array is equal in size or not.                             
+4    Q16). Python Program to delete given element from Array.                                                           
+4    Q17). Python Program to delete element from array at given index.                                                  
+4    Q21). Python program to perform left rotation of array elements by two positions.                                  
+4    Q22). Python program to perform right rotation in array by 2 positions.                                            
+4    Q24). Python Program to find highest frequency element in array.                                                   
+
+
+
+4 # C program to express a number as a sum of two prime numbers | #10 Coding Bytes	
+4 # Sort a string in Alphabetical order | #12 Coding Bytes | FACE Prep
+4 # Python script to remove duplicate from a list of strings | हिंदी में	
+4 # Python Script to reverse a tuple हिंदी में	
+4 # Python script to create a list of first N prime numbers हिंदी में	
+4 # Single line function to calculate factorial in Python हिंदी में	
+4 # How do you find all the permutations of a string? (solution)
+4 # How can a given string be reversed using recursion? (solution)
+4 # How do you count the number of vowels and consonants in a given string? (solution)
+4 # How do you find the length of the longest substring without repeating characters? (solution)
+4 # Given string str, How do you find the longest palindromic substring in str? (solution)
+4 # How do you reverse words in a given sentence without using any library method? (solution)
+4 # How to convert a byte array to String? (solution)
+4 # How do you remove a given character from String? (solution)
+4 # Recursive function to calculate sum of squares of first N natural numbers in Python | MySirG.com	
+4 # Python Program to check divisibility of a number by 5 | MySirG.com	
+4 # Python script to check Prime number | MySirG.com	
+4 # Python script to arrange three words in dictionary order | MySirG.com	
+4 # Python script to sort a list of numbers | MySirG.com	
+4 # Return Multiple Value from Python Function | MySirG.com	
+4 # Python Function Always Return Something | MySirG.com	
+4 # Python Program to calculate Factorial of a Bigger Number | MySirG.com	
+4 # Python Program to Create Homogeneous Tuples form Heterogeneous Tuple	
+4 # Length of Last Word - Algorithm /Code in Python	
+4 # Remove Duplicates from Sorted Array (With Algorithm & Python Code)	
+4 # Maximum Sum SubArray (Kadane's algorithm) With Algorithm & Python Code	
+4 # Find the index of Groups of strings that are ANAGRAMS	
+4 # Python Program to Compare Two Tuples | MySirG.com	
+4 # Python Program to find greatest number in a tuple	
+4 # Python Program to Count Frequency of Elements of a Tuple 
+4 # Find out common letters between two strings Using Python	
+4 # Count the frequency of words appearing in a string Using Python	
+4 # Conversion of two list into Dictionary Using Python	
+4 # Find Out Pairs with given sum in an array in python of time complexity O(n log n)- FACEBOOK,AMAZON	
+4 # Python Program to Count frequency of elements of a tuple | MySirG.com	
+4 # Find Substring of String | Python Code	
+4 # Subsequence of String | Python Code	
+4 # Extract Numbers from TextString Using Regex	
+4 # Find Rotated #String | #Python	
+4 # Reverse Words in String #Python	
+4 # AMAZON CODING INTERVIEW QUESTION - FIRST NON-REPEATING CHARACTER IN A STRING (LeetCode)	
+4 # Roman Numerals to Integers (Python)	
+4 # Find out elements common in two lists using Dictionary	
+4 # Amazing Substring - Python String
+4 # Find Sub string Presence in a String	
+1 # Find Sum Of Elements in an Array	
+4 # How To Swap First & Last Elements of a List	
+4 # How To Swap Any 2 Elements of a List	
+4 # How To Search an Element in a List	
+4 # Count Occurrences of an element in a list	
+4 # How To Reverse Words in a String	
+4 # Check for URL in a String
+4 # Remove Outermost Parenthesis | Input Output Campus	
+4 # Occurrence of Digits in a Range | Input Output Campus	
+4 # Find the roots of a Quadratic Equation	
+4 # Armstrong Number between two Intervals	
+4 # Remove Duplicates from Sorted Array - II	
+4 # Perfect Number between two Intervals	
+4 # How to check if two rectangles overlap with each other? (solution)
+4 # How to find the largest prime factor of a given integral number? (solution)
+4 M # How to check Strong Number | Input Output Campus	
+4 # How to Remove all adjacent duplicates in a string	
+4 # Find n-th number whose Prime Factors are 1,2,3,5	
+4 # Strong Prime Number	
+4 # Implement strStr()	
+4 # Repeated Substring Pattern	
+4 # Maximum Repeating Substring	
+4 # How to check if a given number is even/odd without using the Arithmetic operator? (solution)
+4 # How to print a given Pyramid structure? (solution)
+4 # How to find the highest repeating world from a given file in Java? (solution)
+4 # How to convert a decimal number to binary in Java? (solution)
+4 # Is Subsequence or Not	
+4 # Reverse the Sentence	
+4 # Reverse Words in a String	
+4 # Total Number of Common Factors Between Two Numbers	
+4 # How many times a substring contains in a string	
+4 # Factorial of a Large Number	
+4 # Kids with Greatest Number of Candies	
+4 # String Matching in an Array	
+4 # String Halves are Alike or Not ?	
+4 # Increasing Decreasing String	
+4 # Generate a String with Characters that have Odd Counts	
+4 # Shuffle the Array	
+4 # Number of Good Pairs	
+4 # How many numbers are smaller than the current number	
+4 # Create Target Array in The Given Order	
+4 # Find the Target Element's position | Input Output Campu
+4 # Program to find Last Digit of given number 
+4 # Program to find the remainder using Modulo Operator	
+4 # Program to find Factorial of a number using Recursion	
+4 # 3Find Transition Point in a Sorted Array - Binary Search	
+4 # Perfect Number and Divisors - A Perfect Coding Question for Beginners	
+4 # How is a bubble sort algorithm implemented? (solution)
+4 # How is a merge sort algorithm implemented? (solution)
+4 # How do you count the occurrence of a given character in a string? (solution)
+4 # How do you print the first non-repeated character from a string? (solution)
+4 # How do you remove duplicates from an array in place? (solution)
+4 # How is a radix sort algorithm implemented? (solution)
+4 # How do you find duplicate numbers in an array if it contains multiple duplicates? (solution)
+4 # How do you find the largest and smallest number in an unsorted integer array? (solution)
+4 # How do you find all pairs of an integer array whose sum is equal to a given number? (solution)
+4 # How to find the maximum occurring character in a given String? (solution)

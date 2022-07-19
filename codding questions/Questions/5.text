@@ -1,0 +1,124 @@
+
+5# 10. Write a Python program to implement a Binary Search
+5# 11. Write a Python program to plot a simple bar chart
+
+5 # How do you find the middle element of a singly linked list in one pass? (solution)
+5 # How do you check if a given linked list contains a cycle? How do you find the starting node of the cycle? (solution)
+5 # How do you reverse a linked list? (solution)
+5 # How do you reverse a singly linked list without recursion? (solution)
+5 # How are duplicate nodes removed in an unsorted linked list? (solution)
+5 # How do you find the length of a singly linked list? (solution)
+5 # How do you find the third node from the end in a singly linked list? (solution)
+5 # How do you find the sum of two linked lists using Stack? (solution)
+5 # What is the difference between array and linked list? (answer)
+5 # How to remove duplicates from a sorted linked list? (solution)
+5 # How to find the node at which the intersection of two singly linked lists begins. (solution)
+5 # Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x. (solution)
+5 # How to check if a given linked list is a palindrome? (solution)
+5 # How to remove all elements from a linked list of integers which matches with given value? (solution)
+5 # How is a binary search tree implemented? (solution)
+5 # How do you perform preorder traversal in a given binary tree? (solution)
+5 # How do you traverse a given binary tree in preorder without recursion? (solution)
+5 # How do you perform an inorder traversal in a given binary tree? (solution)
+5 # How do you print all nodes of a given binary tree using inorder traversal without recursion? (solution)
+5 # How do you implement a postorder traversal algorithm? (solution)
+5 # How do you traverse a binary tree in postorder traversal without recursion? (solution)
+5 # How are all leaves of a binary search tree printed? (solution)
+5 # How do you count a number of leaf nodes in a given binary tree? (solution)
+5 # Richest Customer Wealth Coding Question	
+5 # Decompress Run-length Encoded List	
+5 # Trapping Rain Water Problem - Commonly Asked Interview Question in Google, Amazon, Microsoft	
+5 # Euclidean algorithm or Euclid's Algorithm of Subtraction for finding GCD (Greatest Common Divisor)	
+5 # The Euclidean algorithm or Euclid's Algorithm of Division for finding GCD (Greatest Common Divisor)	
+5 # What are Prime numbers ? Program to check if a number is Prime or not - A basic approach	
+5 # 2How to reverse a Singly Linked List - Code Explanation - Common Coding Interview Question	
+5 # How do you implement a bucket sort algorithm? (solution)
+5 # How do you implement a counting sort algorithm? (solution)
+5 # How do you check if two rectangles overlap with each other? (solution)
+5 # How is an iterative quicksort algorithm implemented? (solution)
+5 # How do you reverse a linked list in place? (solution)
+5 # How to add an element at the middle of the linked list? (solution)
+5 # How do you sort a linked list in Java? (solution)
+5 # How do you implement an insertion sort algorithm? (solution)
+5 # Height of Binary Tree(Max Depth) - Python Interview Question(Recursion)	
+5 # Min Depth of Binary Tree - Python Interview Question #Recursion	
+5 # Find minimum difference between two elements of Binary Tree | Data Structures #Python Code	
+5 # Maximum Difference of Binary Tree #Data Structures #Python Interview Questions	
+5 # Evaluate Postfix Expression using Stack	
+5 # How is an integer array sorted in place using the quicksort algorithm? (solution)
+5 # How to remove Nth Node from the end of a linked list? (solution)
+5 # How to merge two sorted linked lists? (solution)
+5 # How to convert a sorted list to a binary search tree? (solution)
+5 # Possible Number of Decodings | Input Output Campus	
+5 # Encrypt the Code Problem | Input Output Campus	
+5 # Jewels and Stones Problem | Input Output Campus	
+5 # Wedding Game Problem | Input Output Campus	
+5 # Count the Number of Consistent String Coding Solution	
+5 # Valid Parenthesis Problem | Input Output Campus	
+5 # How do you perform a binary search in a given array? (solution)
+
+# Count the Number of Consistent String Coding Solution
+# Valid Parenthesis Problem | Input Output Campus	
+# Python script to calculate volume of a Cuboid 
+# Decimal to Binary Conversion
+# Python script to calculate area of a circle
+# Find Out Pairs with given sum in an array in python of time complexity O(n log n)- FACEBOOK,AMAZON	
+# Height of Binary Tree(Max Depth)
+# Find minimum difference between two elements of Binary Tree
+# Maximum Difference of Binary Tree
+# Roman Numerals to Integers 
+# Possible Number of Decodings | Input Output Campus	
+# ALT-TAB Window Problem | Input Output Campus	
+# Encrypt the Code Problem | Input Output Campus	
+# Jewels and Stones Problem | Input Output Campus	
+# Wedding Game Problem | Input Output Campus	
+
+
+0 # 4CodeChef February Lunchtime 2020 | Swapping to Palindrome | SWAPPALI	
+0 # Reverse a Doubly Linked List - Must Solve question	
+0 # How do you design a vending machine? (solution)
+0 # Difference between a stable and unstable sorting algorithm? (answer)
+0 # How to print Floyd’s triangle? (solution)
+0 # How to print Pascal’s triangle? (solution)
+0 # How to design a Vending Machine? (solution)
+0 # How to implement an LRU Cache in your favorite programming language? (solution)
+0 # Can you implement a Binary search Algorithm without recursion? (solution)
+0 # Difference between a stable and unstable sorting algorithm? (answer)
+0 # Python script to calculate volume of a Cuboid | MySirG.com	
+0 # Relational Operator | Python vs C/C++ | MySirG.com	
+0 # Python Program of MarkSheet | MySirG.com	
+0 # What is Depth First Search Algorithm for a binary tree? (solution)0
+0 # How is an iterative quicksort algorithm implemented? (solution)
+0 # How do you implement an insertion sort algorithm? (solution)
+0 # How is a merge sort algorithm implemented? (solution)
+0 # What is the difference between Comparison and Non-Comparison Sorting Algorithms? (answer)
+0 # How do implement Sieve of Eratosthenes Algorithms for Prime Number? (solution)
+0 # 1PrepBytes Live Coding Session - CodeChef September Long Challenge Discussion	
+0 # 2Recursive Staircase Problem - Amazon Interview Question - Recursive to Dynamic Programming approach	
+0 # 2How to Dry Run and Debug your code (1/5) - Competitive Programming Basics	
+0 # 2How to Dry Run and Debug your code (2/5) - Competitive Programming Basics	
+0 # 2Commonly asked Recursion Interview Question - Print an interesting Pattern using Recursion -	
+0 # TRAPPING RAIN WATER | python code	5 
+0 # WAVE ARRAY - DS & ALGO WITH PYTHON CODE -AMAZON,GOOGLE,ADOBE INTERVIEW QUESTION	
+0 # Hotel bookings Possible - DS & ALGO Interview Question With Python Code	
+0 # Multiply Strings [LeetCode] Python Code	
+0 # Sort Colors | LeetCode -75 | Python	
+0 # Linked List Program in Python | MySirG.com	
+0 # Project Smart Calculator in python -MySirG.com	
+0 # ALT-TAB Window Problem | Input Output Campus	
+0 # Python script to calculate area of a circle | MySirG.com
+0# Count the Number of Consistent String Coding Solution
+0# Valid Parenthesis Problem | Input Output Campus	
+0# Python script to calculate volume of a Cuboid 
+0# Decimal to Binary Conversion
+0# Python script to calculate area of a circle
+0# Find Out Pairs with given sum in an array in python of time complexity O(n log n)- FACEBOOK,AMAZON	
+0# Height of Binary Tree(Max Depth)
+0# Find minimum difference between two elements of Binary Tree
+0# Maximum Difference of Binary Tree
+0# Roman Numerals to Integers 
+0# Possible Number of Decodings | Input Output Campus	
+0# ALT-TAB Window Problem | Input Output Campus	
+0# Encrypt the Code Problem | Input Output Campus	
+0# Jewels and Stones Problem | Input Output Campus	
+0# Wedding Game Problem | Input Output Campus	

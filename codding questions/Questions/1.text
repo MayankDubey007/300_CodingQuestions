@@ -1,0 +1,59 @@
+1# reverse list
+1# 4. Write a Python program to print Fibonacci Series
+1# 5. Write a Python program to print a list in reverse
+1# 6. Write a Python program to check whether a string is a Palindrome or not 
+1# 7. Write a Python program to print set of duplicates in a list
+1# String palindrome
+1# multipy all number in the list
+1# lenth of string
+1# if string contain special charator
+1# check for url in String
+1# list length
+
+1    *Q-list to String
+1    Q02).  Write a program in Python to check whether an integer is Armstrong number or not.                 
+1    Q11). Write a program in Python to swap two numbers without using third variable?                       
+1    Q12). Write a program in Python to swap two numbers using third variable?                               
+1    Q14). Write a program in Python to add two integer without using arithmetic operator?                   
+1    Q19). Python Program to check a given number is even or odd.                                            
+1    Q23). Python program to calculate the power using the POW method.                                       
+1    Q26). Python Program to calculate the square of a given number.                                         
+1    Q27). Python Program to calculate the cube of a given number                                            
+1    Q28). Python Program to calculate the square root of a given number.                                    
+1    Q34). Python Program to check the given year is a leap year or not.                                     
+1    Q37). Python program to calculate Simple Interest with explanation.                                     
+1    Q05). Python program to check given character is vowel or consonant.                                
+1    Q06). Python program to check given character is digit or not.                                      
+1    Q07). Python program to check given character is digit or not using isdigit() method.               
+1    Q08). Python program to replace the string space with a given character.                            
+1    Q12). Python Program to calculate length of an array.                                                              
+1    Q18). Python Program to find sum of array elements.                                                                
+1    Q19). Python Program to print all even numbers in array.                                                           
+1    Q20). Python Program to print all odd numbers in array.                                                            
+
+	
+1 # How To Swap 2 Numbers	
+1 # How To Find Factorial of A Number	
+1 # Print Fibonacci Series	
+1 # How To Find Length of a String	
+1 # Check if a string contains any special character	
+1 # How To Find Length of a List | Number of Elements in a List	
+1 # How to calculate the square root of a given number? (solution)
+1 # How to Swap two numbers without using the third variable? (solution)
+1 # Python script to print first N natural numbers in reverse order | MySirG.com	
+1 # Print first N odd natural numbers in reverse order | MySirG.com	
+1 # Print first N even natural numbers in reverse order | MySirG.com	
+1 # Program to reverse a string in C | How to reverse a string | #1 Coding Bytes	
+1 # Swapping two numbers or variables without third variable in C| #2 Coding Bytes	
+1 # Fibonacci series program in C | Program to find Fibonacci series in C | #4 Coding Bytes	
+1 # Python script to check a number Even or Odd हिंदी में	
+1 # Python script to check leap year | हिंदी में	
+1 # Python Script to add two numbers in Hindi	
+1 # Python Script to Reverse a String | MySirG.com	
+1 # Python | Print first 10 natural numbers हिंदी में -mysirg.com	
+1 # Python | Print first 10 natural numbers in reverse order हिंदी में MySirG.com	
+1 # Python script to calculate Simple Interest | MySirG.com	
+1 # Python script to check for positive,negative and zero | MySirG.com	
+1 # Python script to print first 10 odd natural numbers | MySirG.com	
+1 # Python script to print first 10 even natural numbers | MySirG.com	
+1 # Python script to print first N natural numbers | MySirG.com	

@@ -1,0 +1,69 @@
+
+2    Q08).  Write a program in Python to find greatest among three integers.                                  
+2    Q03).  Write a program in Python to check given number is prime or not.                                  
+2    Q01).  Write a program to reverse an integer in Python                                                   
+2    Q17). Python Program to calculate factorial using iterative method.                                     
+2    Q20). Python program to print first n Prime Number with explanation.                                    
+2    Q22). Python Program to find Smallest number among three.                                               
+2    Q24). Python Program to calculate the power without using POW function.(using for loop)                 
+2    Q25). Python Program to calculate the power without using POW function.(using while loop).              
+2    Q21). Python Program to print Prime Number in a given range                                             
+2    Q01). Python program to remove given character from String.                                         
+2    Q03). Python Program to check if two Strings are Anagram.                                           
+2    Q04). Python program to check a String is palindrome or not.                                        
+2    Q09). Python program to replace the string space with a given character using replace() method.     
+2    Q10). Python program to convert lowercase char to uppercase of string.                             
+2    Q11). Python program to convert lowercase vowel to uppercase in string.                            
+2    Q12). Python program to delete vowels in a given string.                                           
+2    Q13). Python program to count Occurrence Of Vowels & Consonants in a String.                       
+2    Q15). Python program to Replace First Occurrence Of Vowel With ‘-‘ in String.                            
+2    Q18). Python program to remove blank space from string.                                                  
+2    Q21). Python program to remove repeated character from string.                                           
+2    Q23). Python program to print all non repeating character in string.                                     
+2    Q24). Python program to copy one string to another string.                                               
+2    Q08). Write a program in Python to remove duplicate elements form array.                                           
+2    Q10). Python program to print array in reverse Order.                                                              
+2    Q11). Python program to reverse an Array in two ways.                                                              
+2    Q14). Python program to insert element at a given location in Array.                                               
+2    Q26). Python Program to find sum of digit of number using recursion.                                               
+
+
+2# factorial
+2# fibonacci
+2# sum of element in array
+2# sum of element in list
+2# 2nd largest numbers
+2# anagram
+2# 8. Write a Python program to print number of words in a given sentence
+2# prime o
+
+
+2 # Python Script to Print Table of 5 in Hindi
+2 # Python Script to print table of user's choice	
+2 # Palindrome program in C | Check if number or string is Palindrome 	
+2 # Check if a number is prime or not 
+2 # Frequently Asked Python Program 2: How To Check A Number is Prime Or Not	
+2 # Frequently Asked Python Program 6: Find Maximum & Minimum Elements in an Array	
+2 # How to Reverse a List in Python (With API & Non-API)	
+2 # How To Clear a List	
+2 # How To Reverse a List	
+2 # How To Clone or Copy a List	
+2 # Find Sum of Elements in the List	
+2 # Multiply All Numbers in the List	
+2 # Frequently Asked Python Program 20:Check String is Palindrome or Not	
+2 # Replace all Questions Marks | Consecutive Characters	
+2 # Running Sum in 1D Array	
+2 # How do you swap two numbers without using the third variable? (solution)
+2 # How do you find the duplicate number on a given integer array? (solution)
+2 # How do you reverse a given string in place? (solution)
+2 # How do you print duplicate characters from a string? (solution)
+2 # How do you check if two strings are anagrams of each other? (solution)
+2 # How to check if a given number is a Palindrome? (solution)
+2 # How to check if a given number is positive or negative in Java? (solution)
+2 # How to check if a given number is an Armstrong number? (solution)
+2 # How do you check if a string contains only digits? (solution)
+2 # How to check if the given number is a prime number? (solution)
+2 # How to reverse a given Integer in Java? (solution)
+2 # How to check if a given year is a leap year in Java? (solution)
+2 # Armstrong Number Program in C, C++, Java & Python | #11 Coding Bytes | FACE Prep	
+2 # C program to find factorial of a number in C | Factorial program in C | #5 Coding Bytes	
